@@ -1,0 +1,43 @@
+body {
+    background: #eee;
+    margin: 0;
+    padding: 10px;
+    font-family: Consolas;
+}
+
+h1 {
+    font-size: 26px;
+    font-weight: normal;
+    border-bottom: 1px solid #ddd;
+    padding: 10px 10px 10px 0;
+    margin: 0 0 10px 0;
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: normal;
+    border-bottom: 1px solid #ddd;
+    padding: 10px 10px 10px 10px;
+    margin: 0 0 10px 0;
+}
+
+p {
+    font-size: 14px;
+    border-left: 3px solid #333;
+    padding: 0 0 0 10px;
+}
+
+.segment {
+    background: #fff;
+    padding: 1px;
+    margin: 0 0 20px 0;
+}
+
+.segment code {
+    background: #ddd;
+    color: #0f00ff;
+}
+
+footer {
+    background: #ddd;
+}
